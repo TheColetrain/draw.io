@@ -207,6 +207,37 @@
         <mxCell id="Xcqr7g22Z-piSSbAHX58-13" value="20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="380" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Xcqr7g22Z-piSSbAHX58-15" value="Coal Liquefaction&lt;div&gt;Coal &amp;amp; Steam to make&amp;nbsp;&lt;/div&gt;&lt;div&gt;65 heavy&lt;/div&gt;&lt;div&gt;20 Light&lt;/div&gt;&lt;div&gt;10 Petroleum&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="10" width="180" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="Xcqr7g22Z-piSSbAHX58-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xcqr7g22Z-piSSbAHX58-15" target="xNyH6aOBv22jk299AQ-3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="140" as="sourcePoint" />
+            <mxPoint x="119" y="331" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="150" />
+              <mxPoint x="470" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xcqr7g22Z-piSSbAHX58-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xcqr7g22Z-piSSbAHX58-15" target="xNyH6aOBv22jk299AQ-3-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="260" as="sourcePoint" />
+            <mxPoint x="444" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xcqr7g22Z-piSSbAHX58-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xcqr7g22Z-piSSbAHX58-15" target="xNyH6aOBv22jk299AQ-3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="160" as="sourcePoint" />
+            <mxPoint x="470" y="382" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
