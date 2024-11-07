@@ -182,7 +182,7 @@
           <mxGeometry x="440" y="370" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xcqr7g22Z-piSSbAHX58-13" value="20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="650" y="540" width="40" height="30" as="geometry" />
+          <mxGeometry x="700" y="350" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xcqr7g22Z-piSSbAHX58-15" value="Coal Liquefaction&lt;div&gt;Coal &amp;amp; Steam to make&amp;nbsp;&lt;/div&gt;&lt;div&gt;65 heavy (net)&lt;/div&gt;&lt;div&gt;20 Light&lt;/div&gt;&lt;div&gt;10 Petroleum&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="10" width="180" height="81" as="geometry" />
